@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
     marginBottom: 8,
   },
   container: {
-    flex: 1,
+    
 
   },
   card: {
